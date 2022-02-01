@@ -1,7 +1,7 @@
 # aStarVisualizer
 Visual demonstration of the A* pathfinding algorithm
 
-![](astar.mp4)
+![](astar.gif)
 
 Only dependency is pygame
 
